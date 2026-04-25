@@ -1,6 +1,5 @@
-# DK-Root
+# DK-Root: A Joint Data-and-Knowledge-Driven Framework for Root Cause Analysis of QoE Degradations in Mobile Networks[[Paper](https://arxiv.org/abs/2511.11737)]
 
-DK-Root is a research prototype for QoE root-cause analysis on multivariate mobile-network KPI time series. The released code focuses on the core model used in the paper: a lightweight 1D convolutional neural network in `models/model.py`, plus the training, evaluation, contrastive-learning, and optional diffusion-augmentation utilities needed to reproduce the pipeline structure.
 
 ## What Is Included
 
